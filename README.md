@@ -8,4 +8,4 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 - `type nul`: Para criar arquivos vazios.
 
 ## 📸 Evidência de Execução
-![Foto do meu terminal](./screenshot.png)
+![Foto do meu terminal](./screenshot.png.jpeg)
